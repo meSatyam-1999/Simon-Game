@@ -62,7 +62,7 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 ## 💬 Let's Connect!
 
 📧 Email: [mesatyamsingh1999@gmail.com](mailto\:mesatyamsingh1999@gmail.com)\
-🔗 LinkedIn: [Satyam Singh]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/satyam-singh-238077305/))\
+🔗 LinkedIn: [Satyam Singh](https://www.linkedin.com/in/satyam-singh-238077305/)\
 🐦 Twitter: [Sat_yam34](https://x.com/Sat_yam34)
 
 ---
